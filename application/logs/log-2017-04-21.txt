@@ -972,3 +972,119 @@ DEBUG - 2017-04-21 20:37:04 --> Global POST, GET and COOKIE data sanitized
 DEBUG - 2017-04-21 20:37:04 --> Config file loaded: C:\xampp\htdocs\camionera\application\config/my_config.php
 DEBUG - 2017-04-21 20:37:04 --> Benchmark class already loaded. Second attempt ignored.
 DEBUG - 2017-04-21 20:37:04 --> Total execution time: 0.1980
+DEBUG - 2017-04-21 20:42:43 --> UTF-8 Support Enabled
+DEBUG - 2017-04-21 20:42:43 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2017-04-21 20:42:43 --> Config file loaded: C:\xampp\htdocs\camionera\application\config/my_config.php
+DEBUG - 2017-04-21 20:42:43 --> Benchmark class already loaded. Second attempt ignored.
+DEBUG - 2017-04-21 20:42:44 --> Total execution time: 0.2182
+DEBUG - 2017-04-21 20:42:45 --> UTF-8 Support Enabled
+DEBUG - 2017-04-21 20:42:45 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2017-04-21 20:42:45 --> Config file loaded: C:\xampp\htdocs\camionera\application\config/my_config.php
+DEBUG - 2017-04-21 20:42:45 --> Benchmark class already loaded. Second attempt ignored.
+DEBUG - 2017-04-21 20:42:45 --> Total execution time: 0.1981
+DEBUG - 2017-04-21 20:42:47 --> UTF-8 Support Enabled
+DEBUG - 2017-04-21 20:42:47 --> Global POST, GET and COOKIE data sanitized
+ERROR - 2017-04-21 20:42:47 --> 404 Page Not Found: Sueldos/table
+DEBUG - 2017-04-21 20:42:49 --> UTF-8 Support Enabled
+DEBUG - 2017-04-21 20:42:49 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2017-04-21 20:42:49 --> Config file loaded: C:\xampp\htdocs\camionera\application\config/my_config.php
+DEBUG - 2017-04-21 20:42:49 --> Benchmark class already loaded. Second attempt ignored.
+DEBUG - 2017-04-21 20:42:49 --> Total execution time: 0.2284
+DEBUG - 2017-04-21 20:50:35 --> UTF-8 Support Enabled
+DEBUG - 2017-04-21 20:50:35 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2017-04-21 20:50:35 --> Config file loaded: C:\xampp\htdocs\camionera\application\config/my_config.php
+DEBUG - 2017-04-21 20:50:35 --> Benchmark class already loaded. Second attempt ignored.
+DEBUG - 2017-04-21 20:50:35 --> Total execution time: 0.2781
+DEBUG - 2017-04-21 20:50:38 --> UTF-8 Support Enabled
+DEBUG - 2017-04-21 20:50:38 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2017-04-21 20:50:38 --> Config file loaded: C:\xampp\htdocs\camionera\application\config/my_config.php
+DEBUG - 2017-04-21 20:50:38 --> Benchmark class already loaded. Second attempt ignored.
+DEBUG - 2017-04-21 20:50:38 --> Total execution time: 0.1984
+DEBUG - 2017-04-21 20:53:17 --> UTF-8 Support Enabled
+DEBUG - 2017-04-21 20:53:17 --> No URI present. Default controller set.
+DEBUG - 2017-04-21 20:53:17 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2017-04-21 20:53:17 --> Config file loaded: C:\xampp\htdocs\camionera\application\config/my_config.php
+DEBUG - 2017-04-21 20:53:17 --> UTF-8 Support Enabled
+DEBUG - 2017-04-21 20:53:17 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2017-04-21 20:53:17 --> Config file loaded: C:\xampp\htdocs\camionera\application\config/my_config.php
+DEBUG - 2017-04-21 20:53:17 --> Benchmark class already loaded. Second attempt ignored.
+DEBUG - 2017-04-21 20:53:17 --> Total execution time: 0.1714
+DEBUG - 2017-04-21 20:53:23 --> UTF-8 Support Enabled
+DEBUG - 2017-04-21 20:53:23 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2017-04-21 20:53:23 --> Config file loaded: C:\xampp\htdocs\camionera\application\config/my_config.php
+DEBUG - 2017-04-21 20:53:23 --> Benchmark class already loaded. Second attempt ignored.
+DEBUG - 2017-04-21 20:53:23 --> Total execution time: 0.2082
+DEBUG - 2017-04-21 20:53:35 --> UTF-8 Support Enabled
+DEBUG - 2017-04-21 20:53:35 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2017-04-21 20:53:35 --> Config file loaded: C:\xampp\htdocs\camionera\application\config/my_config.php
+DEBUG - 2017-04-21 20:53:35 --> Benchmark class already loaded. Second attempt ignored.
+DEBUG - 2017-04-21 20:53:35 --> Total execution time: 0.2058
+DEBUG - 2017-04-21 20:53:38 --> UTF-8 Support Enabled
+DEBUG - 2017-04-21 20:53:38 --> Global POST, GET and COOKIE data sanitized
+ERROR - 2017-04-21 20:53:38 --> 404 Page Not Found: Sueldos/table
+DEBUG - 2017-04-21 20:53:40 --> UTF-8 Support Enabled
+DEBUG - 2017-04-21 20:53:40 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2017-04-21 20:53:40 --> Config file loaded: C:\xampp\htdocs\camionera\application\config/my_config.php
+DEBUG - 2017-04-21 20:53:40 --> Benchmark class already loaded. Second attempt ignored.
+DEBUG - 2017-04-21 20:53:40 --> Total execution time: 0.2188
+DEBUG - 2017-04-21 20:53:42 --> UTF-8 Support Enabled
+DEBUG - 2017-04-21 20:53:42 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2017-04-21 20:53:42 --> Config file loaded: C:\xampp\htdocs\camionera\application\config/my_config.php
+DEBUG - 2017-04-21 20:53:42 --> Benchmark class already loaded. Second attempt ignored.
+DEBUG - 2017-04-21 20:53:42 --> Total execution time: 0.1797
+DEBUG - 2017-04-21 20:54:27 --> UTF-8 Support Enabled
+DEBUG - 2017-04-21 20:54:27 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2017-04-21 20:54:27 --> Config file loaded: C:\xampp\htdocs\camionera\application\config/my_config.php
+DEBUG - 2017-04-21 20:54:27 --> Benchmark class already loaded. Second attempt ignored.
+DEBUG - 2017-04-21 20:54:27 --> Total execution time: 0.1798
+DEBUG - 2017-04-21 20:54:49 --> UTF-8 Support Enabled
+DEBUG - 2017-04-21 20:54:49 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2017-04-21 20:54:49 --> Config file loaded: C:\xampp\htdocs\camionera\application\config/my_config.php
+DEBUG - 2017-04-21 20:54:49 --> Benchmark class already loaded. Second attempt ignored.
+DEBUG - 2017-04-21 20:54:49 --> Total execution time: 0.1582
+DEBUG - 2017-04-21 20:55:05 --> UTF-8 Support Enabled
+DEBUG - 2017-04-21 20:55:05 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2017-04-21 20:55:05 --> Config file loaded: C:\xampp\htdocs\camionera\application\config/my_config.php
+DEBUG - 2017-04-21 20:55:05 --> Benchmark class already loaded. Second attempt ignored.
+DEBUG - 2017-04-21 20:55:05 --> Total execution time: 0.1710
+DEBUG - 2017-04-21 20:55:21 --> UTF-8 Support Enabled
+DEBUG - 2017-04-21 20:55:21 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2017-04-21 20:55:21 --> Config file loaded: C:\xampp\htdocs\camionera\application\config/my_config.php
+DEBUG - 2017-04-21 20:55:21 --> Benchmark class already loaded. Second attempt ignored.
+DEBUG - 2017-04-21 20:55:22 --> Total execution time: 0.2004
+DEBUG - 2017-04-21 20:55:46 --> UTF-8 Support Enabled
+DEBUG - 2017-04-21 20:55:46 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2017-04-21 20:55:46 --> Config file loaded: C:\xampp\htdocs\camionera\application\config/my_config.php
+DEBUG - 2017-04-21 20:55:46 --> Benchmark class already loaded. Second attempt ignored.
+DEBUG - 2017-04-21 20:55:46 --> Total execution time: 0.1830
+DEBUG - 2017-04-21 20:56:02 --> UTF-8 Support Enabled
+DEBUG - 2017-04-21 20:56:02 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2017-04-21 20:56:02 --> Config file loaded: C:\xampp\htdocs\camionera\application\config/my_config.php
+DEBUG - 2017-04-21 20:56:02 --> Benchmark class already loaded. Second attempt ignored.
+DEBUG - 2017-04-21 20:56:02 --> Total execution time: 0.1565
+DEBUG - 2017-04-21 20:56:55 --> UTF-8 Support Enabled
+DEBUG - 2017-04-21 20:56:55 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2017-04-21 20:56:55 --> Config file loaded: C:\xampp\htdocs\camionera\application\config/my_config.php
+DEBUG - 2017-04-21 20:56:55 --> Total execution time: 0.1987
+DEBUG - 2017-04-21 21:01:35 --> UTF-8 Support Enabled
+DEBUG - 2017-04-21 21:01:35 --> No URI present. Default controller set.
+DEBUG - 2017-04-21 21:01:35 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2017-04-21 21:01:35 --> Config file loaded: C:\xampp\htdocs\camionera\application\config/my_config.php
+DEBUG - 2017-04-21 21:01:35 --> Total execution time: 0.0647
+DEBUG - 2017-04-21 21:01:37 --> UTF-8 Support Enabled
+DEBUG - 2017-04-21 21:01:37 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2017-04-21 21:01:37 --> Config file loaded: C:\xampp\htdocs\camionera\application\config/my_config.php
+DEBUG - 2017-04-21 21:01:37 --> UTF-8 Support Enabled
+DEBUG - 2017-04-21 21:01:37 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2017-04-21 21:01:37 --> Config file loaded: C:\xampp\htdocs\camionera\application\config/my_config.php
+DEBUG - 2017-04-21 21:01:37 --> Benchmark class already loaded. Second attempt ignored.
+DEBUG - 2017-04-21 21:01:37 --> Total execution time: 0.2166
+DEBUG - 2017-04-21 21:01:43 --> UTF-8 Support Enabled
+DEBUG - 2017-04-21 21:01:43 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2017-04-21 21:01:43 --> Config file loaded: C:\xampp\htdocs\camionera\application\config/my_config.php
+DEBUG - 2017-04-21 21:01:43 --> Benchmark class already loaded. Second attempt ignored.
+DEBUG - 2017-04-21 21:01:43 --> Total execution time: 0.2213
+DEBUG - 2017-04-21 21:01:50 --> UTF-8 Support Enabled
+DEBUG - 2017-04-21 21:01:50 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2017-04-21 21:01:50 --> Config file loaded: C:\xampp\htdocs\camionera\application\config/my_config.php
+DEBUG - 2017-04-21 21:01:50 --> Total execution time: 0.1928
