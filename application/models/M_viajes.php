@@ -9,9 +9,9 @@ class m_viajes extends MY_Model
             'table'     => 'conductores',
             'subjet'    => 'conductor'
         ),
-        'id_camion' => array(
-            'table'     => 'camiones',
-            'subjet'    => 'camion'
+        'id_vehiculo' => array(
+            'table'     => 'vehiculos',
+            'subjet'    => 'vehiculo'
         ),
         'id_tipo' => array(
             'table'     => 'viajes_tipos',

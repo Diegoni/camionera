@@ -1,9 +1,9 @@
 <?php if ( ! defined('BASEPATH')) exit('No direct script access allowed');
 
-class Camiones_estados extends MY_Controller 
+class Vehiculos_tipos extends MY_Controller 
 {
-	protected $_subject = 'camiones_estados';
-    protected $_model   = 'm_camiones_estados';
+	protected $_subject = 'vehiculos_tipos';
+    protected $_model   = 'm_vehiculos_tipos';
     
     function __construct()
     {
@@ -28,7 +28,7 @@ class Camiones_estados extends MY_Controller
     function abm($id = NULL)
     {                           
         $db['campos']   = array(
-            array('estado',    'onlyChar', 'required'),
+            array('tipo',    'onlyChar', 'required'),
         );
         
         $this->armarAbm($id, $db);

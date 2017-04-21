@@ -4,7 +4,8 @@
  --------------------------------------------------------------------------------*/
  
 $cabeceras = array(
-    lang('camion'),
+    lang('conductor'),
+    lang('vehiculo'),
     lang('opciones'),
 );
 
@@ -33,8 +34,9 @@ if($registros)
     foreach ($registros as $row) 
     {
         $registro = array(
-            $row->camion,
-            tableUpd($subjet, $row->id_camion),
+            $row->conductor,
+            $row->vehiculo,
+            tableUpd($subjet, $row->id_viaje),
         );
         
         $html .= setTableContent($registro);    

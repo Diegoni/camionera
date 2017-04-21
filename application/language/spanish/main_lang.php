@@ -42,7 +42,7 @@ $lang['confirm_pass']       = "Confirmar Password";
 $lang['comentario']         = "Comentario";
 $lang['comentario_publico'] = "Comentario público";
 $lang['comentario_privado'] = "Comentario privado";
-$lang['compuerta']          = "Compuerta";
+$lang['caja_inicial']       = "Caja inicial";
 $lang['cod_post']           = "Codigo Postal";
 $lang['cuit']               = "Cuit";
 $lang['cargando']           = "Cargando";
@@ -66,6 +66,7 @@ $lang['date_add']           = "Fecha alta";
 $lang['dia']                = "Día";
 $lang['dias']               = "Días";
 $lang['dimension']          = "Dimensión";
+$lang['destino']            = "Destino";
 
 /*--------------------------------------------------------------------------------  
     E
@@ -101,8 +102,9 @@ $lang['forma_juridica']     = "Forma juridica";
 $lang['forma_pago']         = "Forma pago";
 $lang['factura']            = "Factura";
 $lang['fecha_pago']         = "Fecha pago";
-$lang['fecha_inicio']       = "Fecha inicio";
-$lang['fecha_vencimiento']  = "Fecha vencimiento";
+$lang['fecha_salida']       = "Fecha salida";
+$lang['fecha_llegada']      = "Fecha llegada";
+
 
 /*--------------------------------------------------------------------------------  
     G
@@ -266,6 +268,9 @@ $lang['version']            = "Versión";
 $lang['validez']            = "Validez";
 $lang['vencimiento_cuota']  = "Vencimiento cuota";
 $lang['vencimiento']        = "Vencimiento";
+$lang['vehiculo']           = "Vehiculo";
+$lang['vehiculos']          = "Vehiculos";
+
 
 /*--------------------------------------------------------------------------------  
     W

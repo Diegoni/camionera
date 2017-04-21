@@ -1,7 +1,7 @@
 <?php 
-class m_camiones_estados extends MY_Model 
+class m_vehiculos_estados extends MY_Model 
 {		
-	protected $_tablename	= 'camiones_estados';
+	protected $_tablename	= 'vehiculos_estados';
 	protected $_id_table	= 'id_estado';
 	protected $_order		= 'estado';
 	protected $_relation    = '';

@@ -1,16 +1,16 @@
 <?php 
-class m_camiones extends MY_Model 
+class m_vehiculos extends MY_Model 
 {		
-	protected $_tablename	= 'camiones';
-	protected $_id_table	= 'id_camion';
-	protected $_order		= 'camion';
+	protected $_tablename	= 'vehiculos';
+	protected $_id_table	= 'id_vehiculo';
+	protected $_order		= 'vehiculo';
 	protected $_relation    =  array(
         'id_tipo' => array(
-            'table'     => 'camiones_tipos',
+            'table'     => 'vehiculos_tipos',
             'subjet'    => 'tipo'
         ),
         'id_estado' => array(
-            'table'     => 'camiones_estados',
+            'table'     => 'vehiculos_estados',
             'subjet'    => 'estado'
         ),
     );
