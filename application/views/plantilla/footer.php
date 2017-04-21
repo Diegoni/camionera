@@ -14,7 +14,7 @@
 				<b><?php echo lang('version')?></b> 1.0.1
 			</div>
 			<strong>
-			    <a href="">SCHEWEIZER Desarrollos Inmobiliarios</a>
+			    <a href="">Consultas: diego_nieto_1@hotmail.com</a>
             </strong>
 			
 		</footer>

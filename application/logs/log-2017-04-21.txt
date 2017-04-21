@@ -1,0 +1,685 @@
+DEBUG - 2017-04-21 16:20:16 --> UTF-8 Support Enabled
+DEBUG - 2017-04-21 16:20:16 --> No URI present. Default controller set.
+DEBUG - 2017-04-21 16:20:16 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2017-04-21 16:20:16 --> Config file loaded: C:\xampp\htdocs\camionera\application\config/my_config.php
+DEBUG - 2017-04-21 16:20:16 --> Total execution time: 0.0702
+DEBUG - 2017-04-21 16:20:18 --> UTF-8 Support Enabled
+DEBUG - 2017-04-21 16:20:18 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2017-04-21 16:20:18 --> Config file loaded: C:\xampp\htdocs\camionera\application\config/my_config.php
+DEBUG - 2017-04-21 16:20:18 --> UTF-8 Support Enabled
+DEBUG - 2017-04-21 16:20:18 --> Global POST, GET and COOKIE data sanitized
+ERROR - 2017-04-21 16:20:18 --> 404 Page Not Found: Clientes/table
+DEBUG - 2017-04-21 16:20:32 --> UTF-8 Support Enabled
+DEBUG - 2017-04-21 16:20:32 --> Global POST, GET and COOKIE data sanitized
+ERROR - 2017-04-21 16:20:32 --> 404 Page Not Found: Menu/table
+DEBUG - 2017-04-21 16:20:35 --> UTF-8 Support Enabled
+DEBUG - 2017-04-21 16:20:35 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2017-04-21 16:20:35 --> Config file loaded: C:\xampp\htdocs\camionera\application\config/my_config.php
+DEBUG - 2017-04-21 16:20:35 --> Benchmark class already loaded. Second attempt ignored.
+DEBUG - 2017-04-21 16:20:36 --> Total execution time: 0.1912
+DEBUG - 2017-04-21 16:20:43 --> UTF-8 Support Enabled
+DEBUG - 2017-04-21 16:20:43 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2017-04-21 16:20:43 --> Config file loaded: C:\xampp\htdocs\camionera\application\config/my_config.php
+DEBUG - 2017-04-21 16:20:43 --> Benchmark class already loaded. Second attempt ignored.
+ERROR - 2017-04-21 16:20:43 --> Could not find the language line "rol"
+DEBUG - 2017-04-21 16:20:43 --> Total execution time: 0.2315
+DEBUG - 2017-04-21 16:20:49 --> UTF-8 Support Enabled
+DEBUG - 2017-04-21 16:20:49 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2017-04-21 16:20:49 --> Config file loaded: C:\xampp\htdocs\camionera\application\config/my_config.php
+DEBUG - 2017-04-21 16:20:49 --> Benchmark class already loaded. Second attempt ignored.
+DEBUG - 2017-04-21 16:20:50 --> Total execution time: 0.4611
+DEBUG - 2017-04-21 16:20:51 --> UTF-8 Support Enabled
+DEBUG - 2017-04-21 16:20:51 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2017-04-21 16:20:51 --> Config file loaded: C:\xampp\htdocs\camionera\application\config/my_config.php
+DEBUG - 2017-04-21 16:20:51 --> Benchmark class already loaded. Second attempt ignored.
+ERROR - 2017-04-21 16:20:52 --> Could not find the language line "rol"
+DEBUG - 2017-04-21 16:20:52 --> Total execution time: 0.2975
+DEBUG - 2017-04-21 16:21:01 --> UTF-8 Support Enabled
+DEBUG - 2017-04-21 16:21:01 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2017-04-21 16:21:01 --> Config file loaded: C:\xampp\htdocs\camionera\application\config/my_config.php
+DEBUG - 2017-04-21 16:21:01 --> Benchmark class already loaded. Second attempt ignored.
+DEBUG - 2017-04-21 16:21:01 --> Total execution time: 0.2975
+DEBUG - 2017-04-21 16:22:40 --> UTF-8 Support Enabled
+DEBUG - 2017-04-21 16:22:40 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2017-04-21 16:22:40 --> Config file loaded: C:\xampp\htdocs\camionera\application\config/my_config.php
+DEBUG - 2017-04-21 16:22:40 --> Benchmark class already loaded. Second attempt ignored.
+DEBUG - 2017-04-21 16:22:40 --> Total execution time: 0.5803
+DEBUG - 2017-04-21 16:22:56 --> UTF-8 Support Enabled
+DEBUG - 2017-04-21 16:22:56 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2017-04-21 16:22:56 --> Config file loaded: C:\xampp\htdocs\camionera\application\config/my_config.php
+DEBUG - 2017-04-21 16:22:56 --> Benchmark class already loaded. Second attempt ignored.
+DEBUG - 2017-04-21 16:22:57 --> Total execution time: 0.2928
+DEBUG - 2017-04-21 16:23:19 --> UTF-8 Support Enabled
+DEBUG - 2017-04-21 16:23:19 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2017-04-21 16:23:19 --> Config file loaded: C:\xampp\htdocs\camionera\application\config/my_config.php
+DEBUG - 2017-04-21 16:23:19 --> Benchmark class already loaded. Second attempt ignored.
+ERROR - 2017-04-21 16:23:19 --> Could not find the language line "rol"
+DEBUG - 2017-04-21 16:23:19 --> Total execution time: 0.2195
+DEBUG - 2017-04-21 16:23:30 --> UTF-8 Support Enabled
+DEBUG - 2017-04-21 16:23:30 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2017-04-21 16:23:30 --> Config file loaded: C:\xampp\htdocs\camionera\application\config/my_config.php
+DEBUG - 2017-04-21 16:23:30 --> Benchmark class already loaded. Second attempt ignored.
+DEBUG - 2017-04-21 16:23:30 --> Total execution time: 0.3607
+DEBUG - 2017-04-21 16:23:41 --> UTF-8 Support Enabled
+DEBUG - 2017-04-21 16:23:41 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2017-04-21 16:23:41 --> Config file loaded: C:\xampp\htdocs\camionera\application\config/my_config.php
+DEBUG - 2017-04-21 16:23:41 --> Benchmark class already loaded. Second attempt ignored.
+ERROR - 2017-04-21 16:23:41 --> Could not find the language line "rol"
+DEBUG - 2017-04-21 16:23:41 --> Total execution time: 0.1774
+DEBUG - 2017-04-21 16:23:46 --> UTF-8 Support Enabled
+DEBUG - 2017-04-21 16:23:46 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2017-04-21 16:23:46 --> Config file loaded: C:\xampp\htdocs\camionera\application\config/my_config.php
+DEBUG - 2017-04-21 16:23:46 --> Benchmark class already loaded. Second attempt ignored.
+DEBUG - 2017-04-21 16:23:46 --> Total execution time: 0.4004
+DEBUG - 2017-04-21 16:23:49 --> UTF-8 Support Enabled
+DEBUG - 2017-04-21 16:23:49 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2017-04-21 16:23:49 --> Config file loaded: C:\xampp\htdocs\camionera\application\config/my_config.php
+DEBUG - 2017-04-21 16:23:49 --> Benchmark class already loaded. Second attempt ignored.
+ERROR - 2017-04-21 16:23:49 --> Could not find the language line "rol"
+DEBUG - 2017-04-21 16:23:49 --> Total execution time: 0.1852
+DEBUG - 2017-04-21 16:23:56 --> UTF-8 Support Enabled
+DEBUG - 2017-04-21 16:23:56 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2017-04-21 16:23:56 --> Config file loaded: C:\xampp\htdocs\camionera\application\config/my_config.php
+DEBUG - 2017-04-21 16:23:56 --> Benchmark class already loaded. Second attempt ignored.
+DEBUG - 2017-04-21 16:23:57 --> Total execution time: 0.3536
+DEBUG - 2017-04-21 16:23:59 --> UTF-8 Support Enabled
+DEBUG - 2017-04-21 16:23:59 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2017-04-21 16:23:59 --> Config file loaded: C:\xampp\htdocs\camionera\application\config/my_config.php
+DEBUG - 2017-04-21 16:23:59 --> Benchmark class already loaded. Second attempt ignored.
+ERROR - 2017-04-21 16:23:59 --> Could not find the language line "rol"
+DEBUG - 2017-04-21 16:23:59 --> Total execution time: 0.2029
+DEBUG - 2017-04-21 16:24:09 --> UTF-8 Support Enabled
+DEBUG - 2017-04-21 16:24:09 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2017-04-21 16:24:09 --> Config file loaded: C:\xampp\htdocs\camionera\application\config/my_config.php
+DEBUG - 2017-04-21 16:24:09 --> Benchmark class already loaded. Second attempt ignored.
+DEBUG - 2017-04-21 16:24:09 --> Total execution time: 0.3332
+DEBUG - 2017-04-21 16:24:29 --> UTF-8 Support Enabled
+DEBUG - 2017-04-21 16:24:29 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2017-04-21 16:24:29 --> Config file loaded: C:\xampp\htdocs\camionera\application\config/my_config.php
+DEBUG - 2017-04-21 16:24:29 --> Benchmark class already loaded. Second attempt ignored.
+ERROR - 2017-04-21 16:24:30 --> Could not find the language line "rol"
+DEBUG - 2017-04-21 16:24:30 --> Total execution time: 0.1424
+DEBUG - 2017-04-21 16:24:43 --> UTF-8 Support Enabled
+DEBUG - 2017-04-21 16:24:43 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2017-04-21 16:24:43 --> Config file loaded: C:\xampp\htdocs\camionera\application\config/my_config.php
+DEBUG - 2017-04-21 16:24:43 --> Benchmark class already loaded. Second attempt ignored.
+DEBUG - 2017-04-21 16:24:43 --> Total execution time: 0.3437
+DEBUG - 2017-04-21 16:24:55 --> UTF-8 Support Enabled
+DEBUG - 2017-04-21 16:24:55 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2017-04-21 16:24:55 --> Config file loaded: C:\xampp\htdocs\camionera\application\config/my_config.php
+DEBUG - 2017-04-21 16:24:55 --> Benchmark class already loaded. Second attempt ignored.
+ERROR - 2017-04-21 16:24:56 --> Could not find the language line "rol"
+DEBUG - 2017-04-21 16:24:56 --> Total execution time: 0.2244
+DEBUG - 2017-04-21 16:25:20 --> UTF-8 Support Enabled
+DEBUG - 2017-04-21 16:25:20 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2017-04-21 16:25:20 --> Config file loaded: C:\xampp\htdocs\camionera\application\config/my_config.php
+DEBUG - 2017-04-21 16:25:20 --> Benchmark class already loaded. Second attempt ignored.
+DEBUG - 2017-04-21 16:25:20 --> Total execution time: 0.3106
+DEBUG - 2017-04-21 16:25:27 --> UTF-8 Support Enabled
+DEBUG - 2017-04-21 16:25:27 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2017-04-21 16:25:27 --> Config file loaded: C:\xampp\htdocs\camionera\application\config/my_config.php
+DEBUG - 2017-04-21 16:25:27 --> Benchmark class already loaded. Second attempt ignored.
+ERROR - 2017-04-21 16:25:27 --> Could not find the language line "rol"
+DEBUG - 2017-04-21 16:25:27 --> Total execution time: 0.3138
+DEBUG - 2017-04-21 16:25:42 --> UTF-8 Support Enabled
+DEBUG - 2017-04-21 16:25:42 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2017-04-21 16:25:42 --> Config file loaded: C:\xampp\htdocs\camionera\application\config/my_config.php
+DEBUG - 2017-04-21 16:25:42 --> Benchmark class already loaded. Second attempt ignored.
+DEBUG - 2017-04-21 16:25:43 --> Total execution time: 0.4323
+DEBUG - 2017-04-21 16:25:49 --> UTF-8 Support Enabled
+DEBUG - 2017-04-21 16:25:49 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2017-04-21 16:25:49 --> Config file loaded: C:\xampp\htdocs\camionera\application\config/my_config.php
+DEBUG - 2017-04-21 16:25:49 --> Benchmark class already loaded. Second attempt ignored.
+ERROR - 2017-04-21 16:25:49 --> Could not find the language line "rol"
+DEBUG - 2017-04-21 16:25:49 --> Total execution time: 0.2305
+DEBUG - 2017-04-21 16:25:58 --> UTF-8 Support Enabled
+DEBUG - 2017-04-21 16:25:58 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2017-04-21 16:25:58 --> Config file loaded: C:\xampp\htdocs\camionera\application\config/my_config.php
+DEBUG - 2017-04-21 16:25:58 --> Benchmark class already loaded. Second attempt ignored.
+DEBUG - 2017-04-21 16:25:58 --> Total execution time: 0.4472
+DEBUG - 2017-04-21 16:26:01 --> UTF-8 Support Enabled
+DEBUG - 2017-04-21 16:26:01 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2017-04-21 16:26:01 --> Config file loaded: C:\xampp\htdocs\camionera\application\config/my_config.php
+DEBUG - 2017-04-21 16:26:01 --> Benchmark class already loaded. Second attempt ignored.
+ERROR - 2017-04-21 16:26:02 --> Could not find the language line "rol"
+DEBUG - 2017-04-21 16:26:02 --> Total execution time: 0.3490
+DEBUG - 2017-04-21 16:26:09 --> UTF-8 Support Enabled
+DEBUG - 2017-04-21 16:26:09 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2017-04-21 16:26:09 --> Config file loaded: C:\xampp\htdocs\camionera\application\config/my_config.php
+DEBUG - 2017-04-21 16:26:09 --> Benchmark class already loaded. Second attempt ignored.
+DEBUG - 2017-04-21 16:26:09 --> Total execution time: 0.3407
+DEBUG - 2017-04-21 16:26:18 --> UTF-8 Support Enabled
+DEBUG - 2017-04-21 16:26:18 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2017-04-21 16:26:18 --> Config file loaded: C:\xampp\htdocs\camionera\application\config/my_config.php
+DEBUG - 2017-04-21 16:26:18 --> Benchmark class already loaded. Second attempt ignored.
+ERROR - 2017-04-21 16:26:18 --> Could not find the language line "rol"
+DEBUG - 2017-04-21 16:26:18 --> Total execution time: 0.1772
+DEBUG - 2017-04-21 16:26:34 --> UTF-8 Support Enabled
+DEBUG - 2017-04-21 16:26:34 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2017-04-21 16:26:34 --> Config file loaded: C:\xampp\htdocs\camionera\application\config/my_config.php
+DEBUG - 2017-04-21 16:26:34 --> Benchmark class already loaded. Second attempt ignored.
+DEBUG - 2017-04-21 16:26:34 --> Total execution time: 0.4593
+DEBUG - 2017-04-21 16:26:38 --> UTF-8 Support Enabled
+DEBUG - 2017-04-21 16:26:38 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2017-04-21 16:26:38 --> Config file loaded: C:\xampp\htdocs\camionera\application\config/my_config.php
+DEBUG - 2017-04-21 16:26:38 --> Benchmark class already loaded. Second attempt ignored.
+ERROR - 2017-04-21 16:26:38 --> Could not find the language line "rol"
+DEBUG - 2017-04-21 16:26:38 --> Total execution time: 0.1865
+DEBUG - 2017-04-21 16:26:46 --> UTF-8 Support Enabled
+DEBUG - 2017-04-21 16:26:46 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2017-04-21 16:26:46 --> Config file loaded: C:\xampp\htdocs\camionera\application\config/my_config.php
+DEBUG - 2017-04-21 16:26:46 --> Benchmark class already loaded. Second attempt ignored.
+DEBUG - 2017-04-21 16:26:46 --> Total execution time: 0.3148
+DEBUG - 2017-04-21 16:27:10 --> UTF-8 Support Enabled
+DEBUG - 2017-04-21 16:27:10 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2017-04-21 16:27:10 --> Config file loaded: C:\xampp\htdocs\camionera\application\config/my_config.php
+DEBUG - 2017-04-21 16:27:10 --> Benchmark class already loaded. Second attempt ignored.
+ERROR - 2017-04-21 16:27:10 --> Could not find the language line "rol"
+DEBUG - 2017-04-21 16:27:10 --> Total execution time: 0.1995
+DEBUG - 2017-04-21 16:27:26 --> UTF-8 Support Enabled
+DEBUG - 2017-04-21 16:27:26 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2017-04-21 16:27:26 --> Config file loaded: C:\xampp\htdocs\camionera\application\config/my_config.php
+DEBUG - 2017-04-21 16:27:26 --> Benchmark class already loaded. Second attempt ignored.
+DEBUG - 2017-04-21 16:27:27 --> Total execution time: 0.5418
+DEBUG - 2017-04-21 16:27:33 --> UTF-8 Support Enabled
+DEBUG - 2017-04-21 16:27:33 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2017-04-21 16:27:33 --> Config file loaded: C:\xampp\htdocs\camionera\application\config/my_config.php
+DEBUG - 2017-04-21 16:27:33 --> Benchmark class already loaded. Second attempt ignored.
+ERROR - 2017-04-21 16:27:33 --> Could not find the language line "rol"
+DEBUG - 2017-04-21 16:27:33 --> Total execution time: 0.1936
+DEBUG - 2017-04-21 16:27:41 --> UTF-8 Support Enabled
+DEBUG - 2017-04-21 16:27:41 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2017-04-21 16:27:41 --> Config file loaded: C:\xampp\htdocs\camionera\application\config/my_config.php
+DEBUG - 2017-04-21 16:27:41 --> Benchmark class already loaded. Second attempt ignored.
+DEBUG - 2017-04-21 16:27:42 --> Total execution time: 0.3402
+DEBUG - 2017-04-21 16:27:56 --> UTF-8 Support Enabled
+DEBUG - 2017-04-21 16:27:56 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2017-04-21 16:27:56 --> Config file loaded: C:\xampp\htdocs\camionera\application\config/my_config.php
+DEBUG - 2017-04-21 16:27:56 --> Benchmark class already loaded. Second attempt ignored.
+ERROR - 2017-04-21 16:27:56 --> Could not find the language line "rol"
+DEBUG - 2017-04-21 16:27:56 --> Total execution time: 0.1820
+DEBUG - 2017-04-21 16:28:08 --> UTF-8 Support Enabled
+DEBUG - 2017-04-21 16:28:08 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2017-04-21 16:28:08 --> Config file loaded: C:\xampp\htdocs\camionera\application\config/my_config.php
+DEBUG - 2017-04-21 16:28:08 --> Benchmark class already loaded. Second attempt ignored.
+DEBUG - 2017-04-21 16:28:09 --> Total execution time: 0.6087
+DEBUG - 2017-04-21 16:28:10 --> UTF-8 Support Enabled
+DEBUG - 2017-04-21 16:28:10 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2017-04-21 16:28:10 --> Config file loaded: C:\xampp\htdocs\camionera\application\config/my_config.php
+DEBUG - 2017-04-21 16:28:10 --> Benchmark class already loaded. Second attempt ignored.
+ERROR - 2017-04-21 16:28:11 --> Could not find the language line "rol"
+DEBUG - 2017-04-21 16:28:11 --> Total execution time: 0.2128
+DEBUG - 2017-04-21 16:28:22 --> UTF-8 Support Enabled
+DEBUG - 2017-04-21 16:28:22 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2017-04-21 16:28:22 --> Config file loaded: C:\xampp\htdocs\camionera\application\config/my_config.php
+DEBUG - 2017-04-21 16:28:22 --> Benchmark class already loaded. Second attempt ignored.
+DEBUG - 2017-04-21 16:28:23 --> Total execution time: 0.4388
+DEBUG - 2017-04-21 16:28:33 --> UTF-8 Support Enabled
+DEBUG - 2017-04-21 16:28:33 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2017-04-21 16:28:33 --> Config file loaded: C:\xampp\htdocs\camionera\application\config/my_config.php
+DEBUG - 2017-04-21 16:28:33 --> Benchmark class already loaded. Second attempt ignored.
+ERROR - 2017-04-21 16:28:33 --> Could not find the language line "rol"
+DEBUG - 2017-04-21 16:28:33 --> Total execution time: 0.1922
+DEBUG - 2017-04-21 16:28:52 --> UTF-8 Support Enabled
+DEBUG - 2017-04-21 16:28:52 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2017-04-21 16:28:52 --> Config file loaded: C:\xampp\htdocs\camionera\application\config/my_config.php
+DEBUG - 2017-04-21 16:28:52 --> Benchmark class already loaded. Second attempt ignored.
+DEBUG - 2017-04-21 16:28:52 --> Total execution time: 0.6247
+DEBUG - 2017-04-21 16:29:09 --> UTF-8 Support Enabled
+DEBUG - 2017-04-21 16:29:09 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2017-04-21 16:29:09 --> Config file loaded: C:\xampp\htdocs\camionera\application\config/my_config.php
+DEBUG - 2017-04-21 16:29:10 --> Total execution time: 0.1338
+DEBUG - 2017-04-21 16:29:11 --> UTF-8 Support Enabled
+DEBUG - 2017-04-21 16:29:11 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2017-04-21 16:29:11 --> Config file loaded: C:\xampp\htdocs\camionera\application\config/my_config.php
+DEBUG - 2017-04-21 16:29:11 --> UTF-8 Support Enabled
+DEBUG - 2017-04-21 16:29:11 --> Global POST, GET and COOKIE data sanitized
+ERROR - 2017-04-21 16:29:11 --> 404 Page Not Found: Clientes/table
+DEBUG - 2017-04-21 16:29:14 --> UTF-8 Support Enabled
+DEBUG - 2017-04-21 16:29:14 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2017-04-21 16:29:14 --> Config file loaded: C:\xampp\htdocs\camionera\application\config/my_config.php
+DEBUG - 2017-04-21 16:29:14 --> Benchmark class already loaded. Second attempt ignored.
+DEBUG - 2017-04-21 16:29:14 --> Total execution time: 0.1640
+DEBUG - 2017-04-21 16:40:34 --> UTF-8 Support Enabled
+DEBUG - 2017-04-21 16:40:34 --> Global POST, GET and COOKIE data sanitized
+ERROR - 2017-04-21 16:40:34 --> 404 Page Not Found: Anticipos/table
+DEBUG - 2017-04-21 16:40:36 --> UTF-8 Support Enabled
+DEBUG - 2017-04-21 16:40:36 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2017-04-21 16:40:36 --> Config file loaded: C:\xampp\htdocs\camionera\application\config/my_config.php
+DEBUG - 2017-04-21 16:40:36 --> Benchmark class already loaded. Second attempt ignored.
+DEBUG - 2017-04-21 16:40:36 --> Total execution time: 0.1923
+DEBUG - 2017-04-21 16:40:39 --> UTF-8 Support Enabled
+DEBUG - 2017-04-21 16:40:39 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2017-04-21 16:40:39 --> Config file loaded: C:\xampp\htdocs\camionera\application\config/my_config.php
+DEBUG - 2017-04-21 16:40:39 --> Benchmark class already loaded. Second attempt ignored.
+ERROR - 2017-04-21 16:40:39 --> Severity: error --> Exception: Unable to locate the model you have specified: M_conductores C:\xampp\htdocs\camionera\system\core\Loader.php 344
+DEBUG - 2017-04-21 16:41:58 --> UTF-8 Support Enabled
+DEBUG - 2017-04-21 16:41:58 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2017-04-21 16:41:58 --> Config file loaded: C:\xampp\htdocs\camionera\application\config/my_config.php
+DEBUG - 2017-04-21 16:41:58 --> Benchmark class already loaded. Second attempt ignored.
+ERROR - 2017-04-21 16:41:58 --> Severity: error --> Exception: Unable to locate the model you have specified: M_tipos_clientes C:\xampp\htdocs\camionera\system\core\Loader.php 344
+DEBUG - 2017-04-21 16:43:13 --> UTF-8 Support Enabled
+DEBUG - 2017-04-21 16:43:13 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2017-04-21 16:43:13 --> Config file loaded: C:\xampp\htdocs\camionera\application\config/my_config.php
+DEBUG - 2017-04-21 16:43:13 --> Benchmark class already loaded. Second attempt ignored.
+ERROR - 2017-04-21 16:43:13 --> Query error: Unknown column 'conductores_estados.tipo' in 'field list' - Invalid query: SELECT conductores_tipos.tipo, conductores_estados.tipo, formas_juridicas.forma_juridica, localidades.localidad, provincias.provincia, conductores.* FROM conductores  LEFT JOIN conductores_tipos ON(conductores.id_tipo = conductores_tipos.id_tipo) LEFT JOIN conductores_estados ON(conductores.id_estado = conductores_estados.id_estado) LEFT JOIN formas_juridicas ON(conductores.id_forma_juridica = formas_juridicas.id_forma_juridica) LEFT JOIN localidades ON(conductores.id_localidad = localidades.id_localidad) LEFT JOIN provincias ON(conductores.id_provincia = provincias.id_provincia) WHERE conductores.eliminado = 0 ORDER BY conductores.conductor
+DEBUG - 2017-04-21 16:43:31 --> UTF-8 Support Enabled
+DEBUG - 2017-04-21 16:43:31 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2017-04-21 16:43:31 --> Config file loaded: C:\xampp\htdocs\camionera\application\config/my_config.php
+DEBUG - 2017-04-21 16:43:31 --> Benchmark class already loaded. Second attempt ignored.
+DEBUG - 2017-04-21 16:43:31 --> Total execution time: 0.1821
+DEBUG - 2017-04-21 16:43:34 --> UTF-8 Support Enabled
+DEBUG - 2017-04-21 16:43:34 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2017-04-21 16:43:34 --> Config file loaded: C:\xampp\htdocs\camionera\application\config/my_config.php
+DEBUG - 2017-04-21 16:43:34 --> Benchmark class already loaded. Second attempt ignored.
+ERROR - 2017-04-21 16:43:34 --> Severity: Notice --> Undefined index: provincias C:\xampp\htdocs\camionera\application\controllers\Conductores.php 61
+ERROR - 2017-04-21 16:43:34 --> Could not find the language line "sueldo"
+ERROR - 2017-04-21 16:43:34 --> Could not find the language line "sueldo"
+DEBUG - 2017-04-21 16:43:34 --> Total execution time: 0.2689
+DEBUG - 2017-04-21 16:44:33 --> UTF-8 Support Enabled
+DEBUG - 2017-04-21 16:44:33 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2017-04-21 16:44:33 --> Config file loaded: C:\xampp\htdocs\camionera\application\config/my_config.php
+DEBUG - 2017-04-21 16:44:33 --> Benchmark class already loaded. Second attempt ignored.
+ERROR - 2017-04-21 16:44:33 --> Could not find the language line "sueldo"
+ERROR - 2017-04-21 16:44:33 --> Could not find the language line "sueldo"
+DEBUG - 2017-04-21 16:44:33 --> Total execution time: 0.3337
+DEBUG - 2017-04-21 16:44:58 --> UTF-8 Support Enabled
+DEBUG - 2017-04-21 16:44:58 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2017-04-21 16:44:58 --> Config file loaded: C:\xampp\htdocs\camionera\application\config/my_config.php
+DEBUG - 2017-04-21 16:44:58 --> Benchmark class already loaded. Second attempt ignored.
+DEBUG - 2017-04-21 16:44:58 --> Total execution time: 0.1789
+DEBUG - 2017-04-21 16:45:39 --> UTF-8 Support Enabled
+DEBUG - 2017-04-21 16:45:39 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2017-04-21 16:45:39 --> Config file loaded: C:\xampp\htdocs\camionera\application\config/my_config.php
+DEBUG - 2017-04-21 16:45:39 --> Benchmark class already loaded. Second attempt ignored.
+DEBUG - 2017-04-21 16:45:39 --> Total execution time: 0.3013
+DEBUG - 2017-04-21 16:45:48 --> UTF-8 Support Enabled
+DEBUG - 2017-04-21 16:45:48 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2017-04-21 16:45:48 --> Config file loaded: C:\xampp\htdocs\camionera\application\config/my_config.php
+DEBUG - 2017-04-21 16:45:48 --> Benchmark class already loaded. Second attempt ignored.
+DEBUG - 2017-04-21 16:45:48 --> Total execution time: 0.1482
+DEBUG - 2017-04-21 16:45:51 --> UTF-8 Support Enabled
+DEBUG - 2017-04-21 16:45:51 --> Global POST, GET and COOKIE data sanitized
+ERROR - 2017-04-21 16:45:51 --> 404 Page Not Found: Anticipos/table
+DEBUG - 2017-04-21 16:45:52 --> UTF-8 Support Enabled
+DEBUG - 2017-04-21 16:45:52 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2017-04-21 16:45:52 --> Config file loaded: C:\xampp\htdocs\camionera\application\config/my_config.php
+DEBUG - 2017-04-21 16:45:52 --> Benchmark class already loaded. Second attempt ignored.
+DEBUG - 2017-04-21 16:45:53 --> Total execution time: 0.2370
+DEBUG - 2017-04-21 16:45:56 --> UTF-8 Support Enabled
+DEBUG - 2017-04-21 16:45:56 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2017-04-21 16:45:56 --> Config file loaded: C:\xampp\htdocs\camionera\application\config/my_config.php
+DEBUG - 2017-04-21 16:45:56 --> Benchmark class already loaded. Second attempt ignored.
+DEBUG - 2017-04-21 16:45:56 --> Total execution time: 0.1728
+DEBUG - 2017-04-21 16:50:33 --> UTF-8 Support Enabled
+DEBUG - 2017-04-21 16:50:33 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2017-04-21 16:50:33 --> Config file loaded: C:\xampp\htdocs\camionera\application\config/my_config.php
+DEBUG - 2017-04-21 16:50:33 --> Benchmark class already loaded. Second attempt ignored.
+DEBUG - 2017-04-21 16:50:33 --> Total execution time: 0.2342
+DEBUG - 2017-04-21 16:53:56 --> UTF-8 Support Enabled
+DEBUG - 2017-04-21 16:53:56 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2017-04-21 16:53:56 --> Config file loaded: C:\xampp\htdocs\camionera\application\config/my_config.php
+DEBUG - 2017-04-21 16:53:56 --> Benchmark class already loaded. Second attempt ignored.
+DEBUG - 2017-04-21 16:53:56 --> Total execution time: 0.2010
+DEBUG - 2017-04-21 16:54:01 --> UTF-8 Support Enabled
+DEBUG - 2017-04-21 16:54:01 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2017-04-21 16:54:01 --> Config file loaded: C:\xampp\htdocs\camionera\application\config/my_config.php
+DEBUG - 2017-04-21 16:54:01 --> Benchmark class already loaded. Second attempt ignored.
+ERROR - 2017-04-21 16:54:01 --> Could not find the language line "rol"
+DEBUG - 2017-04-21 16:54:01 --> Total execution time: 0.1577
+DEBUG - 2017-04-21 16:54:08 --> UTF-8 Support Enabled
+DEBUG - 2017-04-21 16:54:08 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2017-04-21 16:54:08 --> Config file loaded: C:\xampp\htdocs\camionera\application\config/my_config.php
+DEBUG - 2017-04-21 16:54:08 --> Benchmark class already loaded. Second attempt ignored.
+DEBUG - 2017-04-21 16:54:09 --> Total execution time: 0.2723
+DEBUG - 2017-04-21 16:57:36 --> UTF-8 Support Enabled
+DEBUG - 2017-04-21 16:57:36 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2017-04-21 16:57:36 --> Config file loaded: C:\xampp\htdocs\camionera\application\config/my_config.php
+DEBUG - 2017-04-21 16:57:36 --> Benchmark class already loaded. Second attempt ignored.
+DEBUG - 2017-04-21 16:59:31 --> UTF-8 Support Enabled
+DEBUG - 2017-04-21 16:59:31 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2017-04-21 16:59:31 --> Config file loaded: C:\xampp\htdocs\camionera\application\config/my_config.php
+DEBUG - 2017-04-21 16:59:31 --> Benchmark class already loaded. Second attempt ignored.
+ERROR - 2017-04-21 16:59:31 --> Could not find the language line "item"
+DEBUG - 2017-04-21 16:59:31 --> Total execution time: 0.1880
+DEBUG - 2017-04-21 17:00:03 --> UTF-8 Support Enabled
+DEBUG - 2017-04-21 17:00:03 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2017-04-21 17:00:03 --> Config file loaded: C:\xampp\htdocs\camionera\application\config/my_config.php
+DEBUG - 2017-04-21 17:00:04 --> Benchmark class already loaded. Second attempt ignored.
+DEBUG - 2017-04-21 17:00:04 --> Total execution time: 0.2109
+DEBUG - 2017-04-21 17:00:07 --> UTF-8 Support Enabled
+DEBUG - 2017-04-21 17:00:07 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2017-04-21 17:00:07 --> Config file loaded: C:\xampp\htdocs\camionera\application\config/my_config.php
+DEBUG - 2017-04-21 17:00:07 --> Benchmark class already loaded. Second attempt ignored.
+ERROR - 2017-04-21 17:00:07 --> Severity: Notice --> Undefined property: Anticipos::$m_items_gastos C:\xampp\htdocs\camionera\application\controllers\Anticipos.php 33
+ERROR - 2017-04-21 17:00:07 --> Severity: Error --> Call to a member function getRegistros() on null C:\xampp\htdocs\camionera\application\controllers\Anticipos.php 33
+DEBUG - 2017-04-21 17:00:20 --> UTF-8 Support Enabled
+DEBUG - 2017-04-21 17:00:20 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2017-04-21 17:00:20 --> Config file loaded: C:\xampp\htdocs\camionera\application\config/my_config.php
+DEBUG - 2017-04-21 17:00:20 --> Benchmark class already loaded. Second attempt ignored.
+DEBUG - 2017-04-21 17:00:20 --> Total execution time: 0.1846
+DEBUG - 2017-04-21 17:00:35 --> UTF-8 Support Enabled
+DEBUG - 2017-04-21 17:00:35 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2017-04-21 17:00:35 --> Config file loaded: C:\xampp\htdocs\camionera\application\config/my_config.php
+DEBUG - 2017-04-21 17:00:35 --> Benchmark class already loaded. Second attempt ignored.
+DEBUG - 2017-04-21 17:00:35 --> Total execution time: 0.1905
+DEBUG - 2017-04-21 17:00:38 --> UTF-8 Support Enabled
+DEBUG - 2017-04-21 17:00:38 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2017-04-21 17:00:38 --> Config file loaded: C:\xampp\htdocs\camionera\application\config/my_config.php
+DEBUG - 2017-04-21 17:00:38 --> Benchmark class already loaded. Second attempt ignored.
+DEBUG - 2017-04-21 17:00:38 --> Total execution time: 0.3971
+DEBUG - 2017-04-21 17:02:38 --> UTF-8 Support Enabled
+DEBUG - 2017-04-21 17:02:38 --> Global POST, GET and COOKIE data sanitized
+ERROR - 2017-04-21 17:02:38 --> 404 Page Not Found: Sueldos/table
+DEBUG - 2017-04-21 17:02:39 --> UTF-8 Support Enabled
+DEBUG - 2017-04-21 17:02:39 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2017-04-21 17:02:39 --> Config file loaded: C:\xampp\htdocs\camionera\application\config/my_config.php
+DEBUG - 2017-04-21 17:02:39 --> Benchmark class already loaded. Second attempt ignored.
+DEBUG - 2017-04-21 17:02:39 --> Total execution time: 0.1904
+DEBUG - 2017-04-21 17:04:43 --> UTF-8 Support Enabled
+DEBUG - 2017-04-21 17:04:43 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2017-04-21 17:04:43 --> Config file loaded: C:\xampp\htdocs\camionera\application\config/my_config.php
+DEBUG - 2017-04-21 17:04:43 --> Benchmark class already loaded. Second attempt ignored.
+ERROR - 2017-04-21 17:04:43 --> Severity: error --> Exception: C:\xampp\htdocs\camionera\application\models/M_anticipos_estados.php exists, but doesn't declare class M_anticipos_estados C:\xampp\htdocs\camionera\system\core\Loader.php 336
+DEBUG - 2017-04-21 17:05:07 --> UTF-8 Support Enabled
+DEBUG - 2017-04-21 17:05:07 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2017-04-21 17:05:07 --> Config file loaded: C:\xampp\htdocs\camionera\application\config/my_config.php
+DEBUG - 2017-04-21 17:05:07 --> Benchmark class already loaded. Second attempt ignored.
+DEBUG - 2017-04-21 17:05:07 --> Total execution time: 0.2124
+DEBUG - 2017-04-21 17:05:09 --> UTF-8 Support Enabled
+DEBUG - 2017-04-21 17:05:09 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2017-04-21 17:05:09 --> Config file loaded: C:\xampp\htdocs\camionera\application\config/my_config.php
+DEBUG - 2017-04-21 17:05:09 --> Benchmark class already loaded. Second attempt ignored.
+DEBUG - 2017-04-21 17:05:09 --> Total execution time: 0.1000
+DEBUG - 2017-04-21 17:08:01 --> UTF-8 Support Enabled
+DEBUG - 2017-04-21 17:08:01 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2017-04-21 17:08:01 --> Config file loaded: C:\xampp\htdocs\camionera\application\config/my_config.php
+DEBUG - 2017-04-21 17:08:02 --> Benchmark class already loaded. Second attempt ignored.
+DEBUG - 2017-04-21 17:08:02 --> Total execution time: 0.2740
+DEBUG - 2017-04-21 17:10:54 --> UTF-8 Support Enabled
+DEBUG - 2017-04-21 17:10:54 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2017-04-21 17:10:54 --> Config file loaded: C:\xampp\htdocs\camionera\application\config/my_config.php
+DEBUG - 2017-04-21 17:10:54 --> Benchmark class already loaded. Second attempt ignored.
+DEBUG - 2017-04-21 17:10:54 --> Total execution time: 0.2735
+DEBUG - 2017-04-21 17:12:38 --> UTF-8 Support Enabled
+DEBUG - 2017-04-21 17:12:38 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2017-04-21 17:12:38 --> Config file loaded: C:\xampp\htdocs\camionera\application\config/my_config.php
+DEBUG - 2017-04-21 17:12:38 --> Benchmark class already loaded. Second attempt ignored.
+DEBUG - 2017-04-21 17:12:38 --> Total execution time: 0.1937
+DEBUG - 2017-04-21 17:12:51 --> UTF-8 Support Enabled
+DEBUG - 2017-04-21 17:12:51 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2017-04-21 17:12:51 --> Config file loaded: C:\xampp\htdocs\camionera\application\config/my_config.php
+DEBUG - 2017-04-21 17:12:51 --> Benchmark class already loaded. Second attempt ignored.
+DEBUG - 2017-04-21 17:12:51 --> Total execution time: 0.1780
+DEBUG - 2017-04-21 17:13:01 --> UTF-8 Support Enabled
+DEBUG - 2017-04-21 17:13:01 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2017-04-21 17:13:01 --> Config file loaded: C:\xampp\htdocs\camionera\application\config/my_config.php
+DEBUG - 2017-04-21 17:13:01 --> Benchmark class already loaded. Second attempt ignored.
+DEBUG - 2017-04-21 17:13:02 --> Total execution time: 0.2190
+DEBUG - 2017-04-21 17:13:03 --> UTF-8 Support Enabled
+DEBUG - 2017-04-21 17:13:03 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2017-04-21 17:13:03 --> Config file loaded: C:\xampp\htdocs\camionera\application\config/my_config.php
+DEBUG - 2017-04-21 17:13:03 --> Benchmark class already loaded. Second attempt ignored.
+DEBUG - 2017-04-21 17:13:04 --> Total execution time: 0.1908
+DEBUG - 2017-04-21 17:13:20 --> UTF-8 Support Enabled
+DEBUG - 2017-04-21 17:13:20 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2017-04-21 17:13:20 --> Config file loaded: C:\xampp\htdocs\camionera\application\config/my_config.php
+DEBUG - 2017-04-21 17:13:20 --> Benchmark class already loaded. Second attempt ignored.
+DEBUG - 2017-04-21 17:13:20 --> Total execution time: 0.1589
+DEBUG - 2017-04-21 17:13:23 --> UTF-8 Support Enabled
+DEBUG - 2017-04-21 17:13:23 --> Global POST, GET and COOKIE data sanitized
+ERROR - 2017-04-21 17:13:23 --> 404 Page Not Found: Conductores_estados/table
+DEBUG - 2017-04-21 17:13:24 --> UTF-8 Support Enabled
+DEBUG - 2017-04-21 17:13:24 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2017-04-21 17:13:24 --> Config file loaded: C:\xampp\htdocs\camionera\application\config/my_config.php
+DEBUG - 2017-04-21 17:13:24 --> Benchmark class already loaded. Second attempt ignored.
+DEBUG - 2017-04-21 17:13:24 --> Total execution time: 0.1928
+DEBUG - 2017-04-21 17:14:51 --> UTF-8 Support Enabled
+DEBUG - 2017-04-21 17:14:51 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2017-04-21 17:14:51 --> Config file loaded: C:\xampp\htdocs\camionera\application\config/my_config.php
+DEBUG - 2017-04-21 17:14:51 --> Benchmark class already loaded. Second attempt ignored.
+DEBUG - 2017-04-21 17:14:51 --> Total execution time: 0.1848
+DEBUG - 2017-04-21 17:14:52 --> UTF-8 Support Enabled
+DEBUG - 2017-04-21 17:14:52 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2017-04-21 17:14:52 --> Config file loaded: C:\xampp\htdocs\camionera\application\config/my_config.php
+DEBUG - 2017-04-21 17:14:52 --> Benchmark class already loaded. Second attempt ignored.
+DEBUG - 2017-04-21 17:14:52 --> Total execution time: 0.3192
+DEBUG - 2017-04-21 17:15:05 --> UTF-8 Support Enabled
+DEBUG - 2017-04-21 17:15:05 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2017-04-21 17:15:05 --> Config file loaded: C:\xampp\htdocs\camionera\application\config/my_config.php
+DEBUG - 2017-04-21 17:15:05 --> Benchmark class already loaded. Second attempt ignored.
+DEBUG - 2017-04-21 17:15:05 --> Total execution time: 0.1623
+DEBUG - 2017-04-21 17:15:06 --> UTF-8 Support Enabled
+DEBUG - 2017-04-21 17:15:06 --> Global POST, GET and COOKIE data sanitized
+ERROR - 2017-04-21 17:15:06 --> 404 Page Not Found: Conductores_estados/table
+DEBUG - 2017-04-21 17:16:09 --> UTF-8 Support Enabled
+DEBUG - 2017-04-21 17:16:09 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2017-04-21 17:16:09 --> Config file loaded: C:\xampp\htdocs\camionera\application\config/my_config.php
+DEBUG - 2017-04-21 17:16:09 --> Benchmark class already loaded. Second attempt ignored.
+DEBUG - 2017-04-21 17:16:09 --> Total execution time: 0.2021
+DEBUG - 2017-04-21 17:17:07 --> UTF-8 Support Enabled
+DEBUG - 2017-04-21 17:17:07 --> Global POST, GET and COOKIE data sanitized
+ERROR - 2017-04-21 17:17:07 --> 404 Page Not Found: Conductores_tipos/table
+DEBUG - 2017-04-21 17:17:49 --> UTF-8 Support Enabled
+DEBUG - 2017-04-21 17:17:50 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2017-04-21 17:17:50 --> Config file loaded: C:\xampp\htdocs\camionera\application\config/my_config.php
+DEBUG - 2017-04-21 17:17:50 --> Benchmark class already loaded. Second attempt ignored.
+DEBUG - 2017-04-21 17:18:01 --> UTF-8 Support Enabled
+DEBUG - 2017-04-21 17:18:01 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2017-04-21 17:18:01 --> Config file loaded: C:\xampp\htdocs\camionera\application\config/my_config.php
+DEBUG - 2017-04-21 17:18:01 --> Benchmark class already loaded. Second attempt ignored.
+DEBUG - 2017-04-21 17:18:02 --> Total execution time: 0.1637
+DEBUG - 2017-04-21 17:18:17 --> UTF-8 Support Enabled
+DEBUG - 2017-04-21 17:18:17 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2017-04-21 17:18:17 --> Config file loaded: C:\xampp\htdocs\camionera\application\config/my_config.php
+DEBUG - 2017-04-21 17:18:17 --> Benchmark class already loaded. Second attempt ignored.
+DEBUG - 2017-04-21 17:18:17 --> Total execution time: 0.1818
+DEBUG - 2017-04-21 17:18:20 --> UTF-8 Support Enabled
+DEBUG - 2017-04-21 17:18:20 --> Global POST, GET and COOKIE data sanitized
+ERROR - 2017-04-21 17:18:20 --> 404 Page Not Found: Sueldos_estados/table
+DEBUG - 2017-04-21 17:19:23 --> UTF-8 Support Enabled
+DEBUG - 2017-04-21 17:19:23 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2017-04-21 17:19:23 --> Config file loaded: C:\xampp\htdocs\camionera\application\config/my_config.php
+DEBUG - 2017-04-21 17:19:23 --> Benchmark class already loaded. Second attempt ignored.
+DEBUG - 2017-04-21 17:19:23 --> Total execution time: 0.2087
+DEBUG - 2017-04-21 17:19:59 --> UTF-8 Support Enabled
+DEBUG - 2017-04-21 17:19:59 --> Global POST, GET and COOKIE data sanitized
+ERROR - 2017-04-21 17:19:59 --> 404 Page Not Found: Viajes_estados/table
+DEBUG - 2017-04-21 17:22:23 --> UTF-8 Support Enabled
+DEBUG - 2017-04-21 17:22:23 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2017-04-21 17:22:23 --> Config file loaded: C:\xampp\htdocs\camionera\application\config/my_config.php
+DEBUG - 2017-04-21 17:22:23 --> Benchmark class already loaded. Second attempt ignored.
+DEBUG - 2017-04-21 17:22:23 --> Total execution time: 0.2696
+DEBUG - 2017-04-21 17:23:35 --> UTF-8 Support Enabled
+DEBUG - 2017-04-21 17:23:35 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2017-04-21 17:23:35 --> Config file loaded: C:\xampp\htdocs\camionera\application\config/my_config.php
+DEBUG - 2017-04-21 17:23:35 --> Benchmark class already loaded. Second attempt ignored.
+DEBUG - 2017-04-21 17:23:35 --> Total execution time: 0.2690
+DEBUG - 2017-04-21 17:24:24 --> UTF-8 Support Enabled
+DEBUG - 2017-04-21 17:24:24 --> Global POST, GET and COOKIE data sanitized
+ERROR - 2017-04-21 17:24:24 --> 404 Page Not Found: Items_gastos/table
+DEBUG - 2017-04-21 17:24:27 --> UTF-8 Support Enabled
+DEBUG - 2017-04-21 17:24:27 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2017-04-21 17:24:27 --> Config file loaded: C:\xampp\htdocs\camionera\application\config/my_config.php
+DEBUG - 2017-04-21 17:24:27 --> Benchmark class already loaded. Second attempt ignored.
+DEBUG - 2017-04-21 17:24:27 --> Total execution time: 0.2282
+DEBUG - 2017-04-21 17:24:30 --> UTF-8 Support Enabled
+DEBUG - 2017-04-21 17:24:30 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2017-04-21 17:24:30 --> Config file loaded: C:\xampp\htdocs\camionera\application\config/my_config.php
+DEBUG - 2017-04-21 17:24:30 --> Total execution time: 0.1285
+DEBUG - 2017-04-21 17:24:31 --> UTF-8 Support Enabled
+DEBUG - 2017-04-21 17:24:31 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2017-04-21 17:24:31 --> Config file loaded: C:\xampp\htdocs\camionera\application\config/my_config.php
+DEBUG - 2017-04-21 17:24:31 --> UTF-8 Support Enabled
+DEBUG - 2017-04-21 17:24:31 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2017-04-21 17:24:31 --> Config file loaded: C:\xampp\htdocs\camionera\application\config/my_config.php
+DEBUG - 2017-04-21 17:24:31 --> Benchmark class already loaded. Second attempt ignored.
+DEBUG - 2017-04-21 17:24:32 --> Total execution time: 0.1959
+DEBUG - 2017-04-21 17:24:35 --> UTF-8 Support Enabled
+DEBUG - 2017-04-21 17:24:35 --> Global POST, GET and COOKIE data sanitized
+ERROR - 2017-04-21 17:24:35 --> 404 Page Not Found: Items/table
+DEBUG - 2017-04-21 17:25:32 --> UTF-8 Support Enabled
+DEBUG - 2017-04-21 17:25:32 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2017-04-21 17:25:32 --> Config file loaded: C:\xampp\htdocs\camionera\application\config/my_config.php
+DEBUG - 2017-04-21 17:25:32 --> Benchmark class already loaded. Second attempt ignored.
+DEBUG - 2017-04-21 17:25:32 --> Total execution time: 0.1384
+DEBUG - 2017-04-21 17:25:42 --> UTF-8 Support Enabled
+DEBUG - 2017-04-21 17:25:42 --> Global POST, GET and COOKIE data sanitized
+ERROR - 2017-04-21 17:25:42 --> 404 Page Not Found: Camiones/table
+DEBUG - 2017-04-21 17:35:34 --> UTF-8 Support Enabled
+DEBUG - 2017-04-21 17:35:34 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2017-04-21 17:35:34 --> Config file loaded: C:\xampp\htdocs\camionera\application\config/my_config.php
+DEBUG - 2017-04-21 17:35:34 --> Benchmark class already loaded. Second attempt ignored.
+ERROR - 2017-04-21 17:35:34 --> Query error: Table 'camionera.camion_tipos' doesn't exist - Invalid query: SELECT camion_tipos.tipo, camion_estados.estado, camiones.* FROM camiones  LEFT JOIN camion_tipos ON(camiones.id_tipo = camion_tipos.id_tipo) LEFT JOIN camion_estados ON(camiones.id_estado = camion_estados.id_estado) WHERE camiones.eliminado = 0 ORDER BY camiones.camion
+DEBUG - 2017-04-21 17:35:52 --> UTF-8 Support Enabled
+DEBUG - 2017-04-21 17:35:52 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2017-04-21 17:35:52 --> Config file loaded: C:\xampp\htdocs\camionera\application\config/my_config.php
+DEBUG - 2017-04-21 17:35:52 --> Benchmark class already loaded. Second attempt ignored.
+ERROR - 2017-04-21 17:35:52 --> Could not find the language line "camion"
+DEBUG - 2017-04-21 17:35:52 --> Total execution time: 0.1730
+DEBUG - 2017-04-21 17:36:16 --> UTF-8 Support Enabled
+DEBUG - 2017-04-21 17:36:16 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2017-04-21 17:36:16 --> Config file loaded: C:\xampp\htdocs\camionera\application\config/my_config.php
+DEBUG - 2017-04-21 17:36:16 --> Benchmark class already loaded. Second attempt ignored.
+DEBUG - 2017-04-21 17:36:16 --> Total execution time: 0.1649
+DEBUG - 2017-04-21 17:36:23 --> UTF-8 Support Enabled
+DEBUG - 2017-04-21 17:36:23 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2017-04-21 17:36:23 --> Config file loaded: C:\xampp\htdocs\camionera\application\config/my_config.php
+DEBUG - 2017-04-21 17:36:23 --> Benchmark class already loaded. Second attempt ignored.
+ERROR - 2017-04-21 17:36:23 --> Could not find the language line "patente"
+ERROR - 2017-04-21 17:36:23 --> Could not find the language line "patente"
+ERROR - 2017-04-21 17:36:23 --> Could not find the language line "model"
+ERROR - 2017-04-21 17:36:23 --> Severity: Notice --> Undefined index: model C:\xampp\htdocs\camionera\application\helpers\main_helper.php 1349
+ERROR - 2017-04-21 17:36:23 --> Could not find the language line "model"
+ERROR - 2017-04-21 17:36:23 --> Could not find the language line "chasis"
+ERROR - 2017-04-21 17:36:23 --> Could not find the language line "chasis"
+DEBUG - 2017-04-21 17:36:23 --> Total execution time: 0.2237
+DEBUG - 2017-04-21 17:37:12 --> UTF-8 Support Enabled
+DEBUG - 2017-04-21 17:37:12 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2017-04-21 17:37:12 --> Config file loaded: C:\xampp\htdocs\camionera\application\config/my_config.php
+DEBUG - 2017-04-21 17:37:12 --> Benchmark class already loaded. Second attempt ignored.
+ERROR - 2017-04-21 17:37:13 --> Could not find the language line "patente"
+ERROR - 2017-04-21 17:37:13 --> Could not find the language line "patente"
+ERROR - 2017-04-21 17:37:13 --> Could not find the language line "model"
+ERROR - 2017-04-21 17:37:13 --> Severity: Notice --> Undefined index: model C:\xampp\htdocs\camionera\application\helpers\main_helper.php 1349
+ERROR - 2017-04-21 17:37:13 --> Could not find the language line "model"
+ERROR - 2017-04-21 17:37:13 --> Could not find the language line "chasis"
+ERROR - 2017-04-21 17:37:13 --> Could not find the language line "chasis"
+DEBUG - 2017-04-21 17:37:13 --> Total execution time: 0.2028
+DEBUG - 2017-04-21 17:39:14 --> UTF-8 Support Enabled
+DEBUG - 2017-04-21 17:39:14 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2017-04-21 17:39:14 --> Config file loaded: C:\xampp\htdocs\camionera\application\config/my_config.php
+DEBUG - 2017-04-21 17:39:14 --> Benchmark class already loaded. Second attempt ignored.
+ERROR - 2017-04-21 17:39:14 --> Could not find the language line "model"
+ERROR - 2017-04-21 17:39:14 --> Severity: Notice --> Undefined index: model C:\xampp\htdocs\camionera\application\helpers\main_helper.php 1349
+ERROR - 2017-04-21 17:39:14 --> Could not find the language line "model"
+ERROR - 2017-04-21 17:39:14 --> Could not find the language line "chasis"
+ERROR - 2017-04-21 17:39:14 --> Could not find the language line "chasis"
+DEBUG - 2017-04-21 17:39:14 --> Total execution time: 0.2367
+DEBUG - 2017-04-21 17:39:42 --> UTF-8 Support Enabled
+DEBUG - 2017-04-21 17:39:42 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2017-04-21 17:39:42 --> Config file loaded: C:\xampp\htdocs\camionera\application\config/my_config.php
+DEBUG - 2017-04-21 17:39:42 --> Benchmark class already loaded. Second attempt ignored.
+ERROR - 2017-04-21 17:39:42 --> Could not find the language line "model"
+ERROR - 2017-04-21 17:39:42 --> Severity: Notice --> Undefined index: model C:\xampp\htdocs\camionera\application\helpers\main_helper.php 1349
+ERROR - 2017-04-21 17:39:42 --> Could not find the language line "model"
+ERROR - 2017-04-21 17:39:42 --> Could not find the language line "chasis"
+ERROR - 2017-04-21 17:39:42 --> Could not find the language line "chasis"
+DEBUG - 2017-04-21 17:39:42 --> Total execution time: 0.2361
+DEBUG - 2017-04-21 17:39:44 --> UTF-8 Support Enabled
+DEBUG - 2017-04-21 17:39:44 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2017-04-21 17:39:44 --> Config file loaded: C:\xampp\htdocs\camionera\application\config/my_config.php
+DEBUG - 2017-04-21 17:39:44 --> Benchmark class already loaded. Second attempt ignored.
+ERROR - 2017-04-21 17:39:44 --> Could not find the language line "model"
+ERROR - 2017-04-21 17:39:44 --> Severity: Notice --> Undefined index: model C:\xampp\htdocs\camionera\application\helpers\main_helper.php 1349
+ERROR - 2017-04-21 17:39:44 --> Could not find the language line "model"
+ERROR - 2017-04-21 17:39:44 --> Could not find the language line "chasis"
+ERROR - 2017-04-21 17:39:44 --> Could not find the language line "chasis"
+DEBUG - 2017-04-21 17:39:44 --> Total execution time: 0.1989
+DEBUG - 2017-04-21 17:39:58 --> UTF-8 Support Enabled
+DEBUG - 2017-04-21 17:39:58 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2017-04-21 17:39:58 --> Config file loaded: C:\xampp\htdocs\camionera\application\config/my_config.php
+DEBUG - 2017-04-21 17:39:58 --> Benchmark class already loaded. Second attempt ignored.
+ERROR - 2017-04-21 17:39:59 --> Could not find the language line "chasis"
+ERROR - 2017-04-21 17:39:59 --> Could not find the language line "chasis"
+DEBUG - 2017-04-21 17:39:59 --> Total execution time: 0.1885
+DEBUG - 2017-04-21 17:40:38 --> UTF-8 Support Enabled
+DEBUG - 2017-04-21 17:40:38 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2017-04-21 17:40:38 --> Config file loaded: C:\xampp\htdocs\camionera\application\config/my_config.php
+DEBUG - 2017-04-21 17:40:39 --> Benchmark class already loaded. Second attempt ignored.
+DEBUG - 2017-04-21 17:40:39 --> Total execution time: 0.1609
+DEBUG - 2017-04-21 17:40:47 --> UTF-8 Support Enabled
+DEBUG - 2017-04-21 17:40:47 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2017-04-21 17:40:47 --> Config file loaded: C:\xampp\htdocs\camionera\application\config/my_config.php
+DEBUG - 2017-04-21 17:40:47 --> Benchmark class already loaded. Second attempt ignored.
+DEBUG - 2017-04-21 17:40:47 --> Total execution time: 0.1948
+DEBUG - 2017-04-21 17:40:50 --> UTF-8 Support Enabled
+DEBUG - 2017-04-21 17:40:50 --> Global POST, GET and COOKIE data sanitized
+ERROR - 2017-04-21 17:40:50 --> 404 Page Not Found: Viajes/table
+DEBUG - 2017-04-21 17:41:54 --> UTF-8 Support Enabled
+DEBUG - 2017-04-21 17:41:54 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2017-04-21 17:41:54 --> Config file loaded: C:\xampp\htdocs\camionera\application\config/my_config.php
+DEBUG - 2017-04-21 17:41:54 --> Benchmark class already loaded. Second attempt ignored.
+DEBUG - 2017-04-21 17:41:54 --> Total execution time: 0.2082
+DEBUG - 2017-04-21 17:41:56 --> UTF-8 Support Enabled
+DEBUG - 2017-04-21 17:41:56 --> Global POST, GET and COOKIE data sanitized
+ERROR - 2017-04-21 17:41:56 --> 404 Page Not Found: Viajes/table
+DEBUG - 2017-04-21 17:41:58 --> UTF-8 Support Enabled
+DEBUG - 2017-04-21 17:41:58 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2017-04-21 17:41:58 --> Config file loaded: C:\xampp\htdocs\camionera\application\config/my_config.php
+DEBUG - 2017-04-21 17:41:58 --> Benchmark class already loaded. Second attempt ignored.
+DEBUG - 2017-04-21 17:41:58 --> Total execution time: 0.2507
+DEBUG - 2017-04-21 17:42:01 --> UTF-8 Support Enabled
+DEBUG - 2017-04-21 17:42:01 --> Global POST, GET and COOKIE data sanitized
+ERROR - 2017-04-21 17:42:01 --> 404 Page Not Found: Gastos/table
+DEBUG - 2017-04-21 17:48:50 --> UTF-8 Support Enabled
+DEBUG - 2017-04-21 17:48:50 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2017-04-21 17:48:50 --> Config file loaded: C:\xampp\htdocs\camionera\application\config/my_config.php
+DEBUG - 2017-04-21 17:48:50 --> Benchmark class already loaded. Second attempt ignored.
+ERROR - 2017-04-21 17:48:50 --> Severity: error --> Exception: Unable to locate the model you have specified: M_viajes C:\xampp\htdocs\camionera\system\core\Loader.php 344
+DEBUG - 2017-04-21 17:50:42 --> UTF-8 Support Enabled
+DEBUG - 2017-04-21 17:50:42 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2017-04-21 17:50:42 --> Config file loaded: C:\xampp\htdocs\camionera\application\config/my_config.php
+DEBUG - 2017-04-21 17:50:42 --> Benchmark class already loaded. Second attempt ignored.
+DEBUG - 2017-04-21 17:50:42 --> Total execution time: 0.2279
+DEBUG - 2017-04-21 17:50:44 --> UTF-8 Support Enabled
+DEBUG - 2017-04-21 17:50:44 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2017-04-21 17:50:44 --> Config file loaded: C:\xampp\htdocs\camionera\application\config/my_config.php
+DEBUG - 2017-04-21 17:50:45 --> Benchmark class already loaded. Second attempt ignored.
+ERROR - 2017-04-21 17:50:45 --> Query error: Table 'camionera.viajes_estado' doesn't exist - Invalid query: SELECT conductores.conductor, camiones.camion, viajes_tipos.tipo, viajes_estado.estado, viajes.* FROM viajes  LEFT JOIN conductores ON(viajes.id_conductor = conductores.id_conductor) LEFT JOIN camiones ON(viajes.id_camion = camiones.id_camion) LEFT JOIN viajes_tipos ON(viajes.id_tipo = viajes_tipos.id_tipo) LEFT JOIN viajes_estado ON(viajes.id_estado = viajes_estado.id_estado) WHERE viajes.eliminado = 0 ORDER BY viajes.id_viaje
+DEBUG - 2017-04-21 17:50:56 --> UTF-8 Support Enabled
+DEBUG - 2017-04-21 17:50:56 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2017-04-21 17:50:56 --> Config file loaded: C:\xampp\htdocs\camionera\application\config/my_config.php
+DEBUG - 2017-04-21 17:50:56 --> Benchmark class already loaded. Second attempt ignored.
+ERROR - 2017-04-21 17:50:56 --> Severity: Notice --> Undefined index:  C:\xampp\htdocs\camionera\application\helpers\main_helper.php 1188
+ERROR - 2017-04-21 17:50:56 --> Severity: Warning --> Invalid argument supplied for foreach() C:\xampp\htdocs\camionera\application\helpers\main_helper.php 1096
+ERROR - 2017-04-21 17:50:56 --> Could not find the language line ""
+DEBUG - 2017-04-21 17:50:56 --> Total execution time: 0.1619
+DEBUG - 2017-04-21 17:51:23 --> UTF-8 Support Enabled
+DEBUG - 2017-04-21 17:51:23 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2017-04-21 17:51:23 --> Config file loaded: C:\xampp\htdocs\camionera\application\config/my_config.php
+DEBUG - 2017-04-21 17:51:23 --> Benchmark class already loaded. Second attempt ignored.
+DEBUG - 2017-04-21 17:51:23 --> Total execution time: 0.1828
+DEBUG - 2017-04-21 17:51:34 --> UTF-8 Support Enabled
+DEBUG - 2017-04-21 17:51:34 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2017-04-21 17:51:34 --> Config file loaded: C:\xampp\htdocs\camionera\application\config/my_config.php
+DEBUG - 2017-04-21 17:51:34 --> Benchmark class already loaded. Second attempt ignored.
+DEBUG - 2017-04-21 17:51:34 --> Total execution time: 0.1933
+DEBUG - 2017-04-21 17:51:37 --> UTF-8 Support Enabled
+DEBUG - 2017-04-21 17:51:37 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2017-04-21 17:51:37 --> Config file loaded: C:\xampp\htdocs\camionera\application\config/my_config.php
+DEBUG - 2017-04-21 17:51:37 --> Benchmark class already loaded. Second attempt ignored.
+DEBUG - 2017-04-21 17:51:37 --> Total execution time: 0.1600
+DEBUG - 2017-04-21 17:51:38 --> UTF-8 Support Enabled
+DEBUG - 2017-04-21 17:51:38 --> Global POST, GET and COOKIE data sanitized
+ERROR - 2017-04-21 17:51:38 --> 404 Page Not Found: Viajes/table
+DEBUG - 2017-04-21 17:51:39 --> UTF-8 Support Enabled
+DEBUG - 2017-04-21 17:51:39 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2017-04-21 17:51:39 --> Config file loaded: C:\xampp\htdocs\camionera\application\config/my_config.php
+DEBUG - 2017-04-21 17:51:40 --> Benchmark class already loaded. Second attempt ignored.
+DEBUG - 2017-04-21 17:51:40 --> Total execution time: 0.2079
+DEBUG - 2017-04-21 17:51:41 --> UTF-8 Support Enabled
+DEBUG - 2017-04-21 17:51:41 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2017-04-21 17:51:41 --> Config file loaded: C:\xampp\htdocs\camionera\application\config/my_config.php
+DEBUG - 2017-04-21 17:51:41 --> Benchmark class already loaded. Second attempt ignored.
+DEBUG - 2017-04-21 17:51:41 --> Total execution time: 0.2563

@@ -48,10 +48,11 @@ $lang['cuit']               = "Cuit";
 $lang['cargando']           = "Cargando";
 $lang['calle']              = "Calle";
 $lang['calle_numero']       = "Calle nro";
-$lang['cliente']            = "Cliente";
+$lang['conductor']          = "Conductor";
 $lang['condicion_pago']     = "Condición pago";
-$lang['contrato']           = "Contrato";
+$lang['camion']             = "Camión";
 $lang['cuotas']             = "Cuotas";
+$lang['chasis']             = "Chasis";
 
 /*--------------------------------------------------------------------------------  
     D
@@ -128,7 +129,7 @@ $lang['ingreso']            = "Ingreso";
 $lang['inicio']             = "Inicio";
 $lang['insert_ok']          = "Registro se agrego";
 $lang['informacion']        = "Información";
-$lang['id_animal']          = "ID Animal";
+$lang['item']               = "Item";
 $lang['id_pedido']          = "ID Pedido";
 $lang['id_factura']         = "ID Factura";
 $lang['inmueble']         	= "Inmueble";
@@ -155,9 +156,10 @@ $lang['monto']              = "Monto";
 $lang['monto_cuota']        = "Monto cuota";
 $lang['monto_anticipo']     = "Monto anticipo";
 $lang['monto_interes']      = "Monto interés";
-$lang['monto_pago']        = "Monto pago";
+$lang['monto_pago']         = "Monto pago";
 $lang['menu']               = "Menu";
 $lang['marcacion']          = "Marcación";
+$lang['modelo']             = "Modelo";
 
 /*--------------------------------------------------------------------------------  
     N
@@ -198,7 +200,7 @@ $lang['peligro']            = "Peligro";
 $lang['permiso']            = "Permiso";
 $lang['permisos']           = "Permisos";
 $lang['periodo']            = "Periodo";
-$lang['pri_desc']           = "Descripción";
+$lang['patente']            = "Patente";
 $lang['programa']           = "Programa";
 $lang['peso']               = "Peso";
 $lang['proveedor']          = "Proveedor";
@@ -227,7 +229,7 @@ $lang['registro']           = "Registro";
 $lang['salir']              = "Salir";
 $lang['siguiente']          = "Siguiente";
 $lang['sector']             = "Sector";
-$lang['servo_uno']          = "Servo uno";
+$lang['sueldo']             = "Sueldo";
 $lang['servo_dos']          = "Servo dos";
 
 /*--------------------------------------------------------------------------------  
